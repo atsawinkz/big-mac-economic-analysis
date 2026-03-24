@@ -37,18 +37,6 @@ To run the Jupyter Notebooks locally, you need to install the required Python li
    pip install -r requirements.txt
    ```
 
-## Repository Structure
-```plaintext
-├── data/                                 # Folder for storing datasets
-│   └── big-mac-adjusted-index.csv
-├── notebooks/                            # Folder for Jupyter Notebooks
-│   ├── Simple_Linear_Regression.ipynb
-│   └── Multiple_Linear_Regression.ipynb
-├── .gitignore                            # Ignored files for Git
-├── README.md                             # Project documentation
-└── requirements.txt                      # Required Python libraries
-```
-
 ## Step-by-Step Tutorials
 1. Navigate to the `notebooks/` directory.
 2. Open `Simple_Linear_Regression.ipynb` to understand how a single feature can be used to predict a continuous target variable.
